@@ -6,5 +6,6 @@ class HelloWorld {
         System.out.println("Hello welcome to all from Kobzo");
         System.out.println("New Line added Demo");
         System.out.println("New Line added");
+        System.out.println("New Line added");
     }
 }
